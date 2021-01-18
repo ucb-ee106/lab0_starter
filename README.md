@@ -1,2 +1,2 @@
-# lab0b_starter
-EECS C106B Lab 0B Starter
+# proj0_starter
+EECS C106B Project 0 Starter
