@@ -42,10 +42,7 @@ def controller(turtle_name):
   while not rospy.is_shutdown():
 
     # YOUR CODE HERE *******************************************
-    
     user_input = input('Helpful user prompt')
-
-
 
     message = 
     # **********************************************************
