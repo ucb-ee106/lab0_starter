@@ -47,7 +47,6 @@ def controller(turtle_name):
     message = 
     # **********************************************************
 
-
     # Publish our string to the topic you define
     pub.publish(message)
     
